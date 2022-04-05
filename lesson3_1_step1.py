@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import time
+>>>>>>> c19b85f232554ba016fa571778b51dbce44505d8
 
 
 # def test_input_text(expected_result, actual_result):
